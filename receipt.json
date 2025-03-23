@@ -1,0 +1,16 @@
+[
+    {
+        "customer_name": "ajju",
+        "cart": [
+            {
+                "name": "Washing Machine",
+                "original_price": 900,
+                "discount": 10,
+                "quantity": 2
+            }
+        ],
+        "subtotal": 1620.0,
+        "tax": 162.0,
+        "total": 1782.0
+    }
+]
